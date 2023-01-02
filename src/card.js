@@ -13,11 +13,11 @@ function Card(){
 			<h1>Contact Me</h1>
 			<form>
 				<label>Your Name :</label>
-				<input type="text" placeholder="OyuErdene"/>
+				<input type="text"/>
 				<label>Your E-mail :</label>
-				<input type="text" placeholder="Example@mail.com"/>
+				<input type="text"/>
 				<label>Your message :</label>
-				<textarea placeholder="The Subject"></textarea>
+				<textarea></textarea>
 				<input type="submit" value="Done"/>
 			</form>
 		</div>
