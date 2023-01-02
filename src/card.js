@@ -13,7 +13,7 @@ function Card(){
 			<h1>Contact Me</h1>
 			<form>
 				<label>Your Name :</label>
-				<input type="text" placeholder="Omar Khattab"/>
+				<input type="text" placeholder="OyuErdene"/>
 				<label>Your E-mail :</label>
 				<input type="text" placeholder="Example@mail.com"/>
 				<label>Your message :</label>
